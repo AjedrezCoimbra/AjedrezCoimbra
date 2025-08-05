@@ -14,4 +14,5 @@ La **Asociación Deportiva Coimbra Jumilla** es una organización deportiva dedi
 💬 Nos apasiona el ajedrez y creemos en su poder educativo y social. Si compartes esta visión, ¡bienvenido/a!
 
 📌 Nuestra página web: [Página de noticias](https://ajedrezcoimbra.com/)
+
 🐍 Nuestra API en python: [API AjedrezCoimbra](https://api.ajedrezcoimbra.com/)
